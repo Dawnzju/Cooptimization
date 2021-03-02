@@ -1,0 +1,1493 @@
+{0: 45, 1: 51, 2: 15, 3: 18, 4: 30, 5: 53, 6: 50, 7: 29, 8: 2, 9: 17, 10: 57, 11: 44, 12: 47, 13: 42, 14: 35, 15: 20, 16: 11, 17: 12, 18: 1, 19: 14, 20: 50, 21: 23}
+Iteration  0 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  244.1126213592233
+This iteration costs  14.449399530887604 mins
+Iteration  1 :
+neighborhood: 35
+neighborhood: 36
+neighborhood: 37
+neighborhood: 43
+neighborhood: 45
+neighborhood: 51
+neighborhood: 52
+neighborhood: 53
+reward in this iteration is  261.80970873786407
+This iteration costs  14.35756111939748 mins
+Iteration  2 :
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+neighborhood: 16
+neighborhood: 18
+neighborhood: 24
+neighborhood: 25
+neighborhood: 26
+reward in this iteration is  258.2485436893204
+This iteration costs  14.433438301086426 mins
+Iteration  3 :
+neighborhood: 6
+neighborhood: 7
+neighborhood: 14
+neighborhood: 22
+neighborhood: 23
+reward in this iteration is  276.70291262135925
+This iteration costs  8.968765795230865 mins
+Iteration  4 :
+neighborhood: 6
+neighborhood: 14
+neighborhood: 15
+reward in this iteration is  259.40388349514564
+This iteration costs  5.407005194822947 mins
+Iteration  5 :
+neighborhood: 38
+neighborhood: 39
+neighborhood: 46
+neighborhood: 54
+neighborhood: 55
+reward in this iteration is  266.09708737864077
+This iteration costs  8.788353784879048 mins
+Iteration  6 :
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+neighborhood: 17
+neighborhood: 19
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+reward in this iteration is  353.673786407767
+This iteration costs  15.283981998761496 mins
+Iteration  7 :
+neighborhood: 11
+neighborhood: 12
+neighborhood: 13
+neighborhood: 19
+neighborhood: 21
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+reward in this iteration is  306.6640776699029
+This iteration costs  14.975671410560608 mins
+Iteration  8 :
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+neighborhood: 28
+neighborhood: 30
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+reward in this iteration is  329.61553398058254
+This iteration costs  14.96954532066981 mins
+Iteration  9 :
+neighborhood: 42
+neighborhood: 43
+neighborhood: 44
+neighborhood: 50
+neighborhood: 52
+neighborhood: 58
+neighborhood: 59
+neighborhood: 60
+reward in this iteration is  394.9495145631068
+This iteration costs  15.361395768324535 mins
+write result
+Iteration  10 :
+neighborhood: 35
+neighborhood: 36
+neighborhood: 37
+neighborhood: 43
+neighborhood: 45
+neighborhood: 51
+neighborhood: 52
+neighborhood: 53
+reward in this iteration is  365.6621359223301
+This iteration costs  15.264247302214304 mins
+Iteration  11 :
+neighborhood: 44
+neighborhood: 45
+neighborhood: 46
+neighborhood: 52
+neighborhood: 54
+neighborhood: 60
+neighborhood: 61
+neighborhood: 62
+reward in this iteration is  366.7708737864078
+This iteration costs  15.09660697778066 mins
+Iteration  12 :
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+neighborhood: 17
+neighborhood: 19
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+reward in this iteration is  342.2854368932039
+This iteration costs  14.714926111698151 mins
+Iteration  13 :
+neighborhood: 6
+neighborhood: 7
+neighborhood: 14
+neighborhood: 22
+neighborhood: 23
+reward in this iteration is  366.0543689320388
+This iteration costs  8.915786719322204 mins
+Iteration  14 :
+neighborhood: 0
+neighborhood: 2
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+reward in this iteration is  359.19417475728153
+This iteration costs  8.830386503537495 mins
+Iteration  15 :
+neighborhood: 26
+neighborhood: 27
+neighborhood: 28
+neighborhood: 34
+neighborhood: 36
+neighborhood: 42
+neighborhood: 43
+neighborhood: 44
+reward in this iteration is  358.4097087378641
+This iteration costs  14.054391340414684 mins
+Iteration  16 :
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+neighborhood: 44
+neighborhood: 46
+neighborhood: 52
+neighborhood: 53
+neighborhood: 54
+reward in this iteration is  360.1747572815534
+This iteration costs  13.578667473793029 mins
+Iteration  17 :
+neighborhood: 5
+neighborhood: 6
+neighborhood: 7
+neighborhood: 13
+neighborhood: 15
+neighborhood: 21
+neighborhood: 22
+neighborhood: 23
+reward in this iteration is  363.63689320388346
+This iteration costs  13.805745899677277 mins
+Iteration  18 :
+neighborhood: 0
+neighborhood: 1
+neighborhood: 2
+neighborhood: 8
+neighborhood: 10
+neighborhood: 16
+neighborhood: 17
+neighborhood: 18
+reward in this iteration is  356.86407766990294
+This iteration costs  13.689560031890869 mins
+Iteration  19 :
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+neighborhood: 26
+neighborhood: 28
+neighborhood: 34
+neighborhood: 35
+neighborhood: 36
+reward in this iteration is  382.74174757281554
+This iteration costs  14.199521028995514 mins
+write result
+Iteration  20 :
+neighborhood: 5
+neighborhood: 7
+neighborhood: 13
+neighborhood: 14
+neighborhood: 15
+reward in this iteration is  396.6621359223301
+This iteration costs  9.02871290842692 mins
+Iteration  21 :
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+neighborhood: 35
+neighborhood: 37
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+reward in this iteration is  393.12815533980586
+This iteration costs  14.294942657152811 mins
+Iteration  22 :
+neighborhood: 1
+neighborhood: 3
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+reward in this iteration is  401.97669902912617
+This iteration costs  9.138632094860077 mins
+Iteration  23 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  368.46796116504856
+This iteration costs  12.497076213359833 mins
+Iteration  24 :
+neighborhood: 4
+neighborhood: 5
+neighborhood: 6
+neighborhood: 12
+neighborhood: 14
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+reward in this iteration is  359.4
+This iteration costs  9.096643308798471 mins
+Iteration  25 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  419.37669902912626
+This iteration costs  9.15038651227951 mins
+Iteration  26 :
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+neighborhood: 28
+neighborhood: 30
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+reward in this iteration is  404.46019417475725
+This iteration costs  9.117393378416697 mins
+Iteration  27 :
+neighborhood: 48
+neighborhood: 49
+neighborhood: 50
+neighborhood: 56
+neighborhood: 58
+reward in this iteration is  408.4640776699029
+This iteration costs  5.591118232409159 mins
+Iteration  28 :
+neighborhood: 11
+neighborhood: 12
+neighborhood: 13
+neighborhood: 19
+neighborhood: 21
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+reward in this iteration is  415.08155339805825
+This iteration costs  8.786169163386027 mins
+Iteration  29 :
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+neighborhood: 26
+neighborhood: 28
+neighborhood: 34
+neighborhood: 35
+neighborhood: 36
+reward in this iteration is  410.69514563106793
+This iteration costs  8.809876851240794 mins
+write result
+Iteration  30 :
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+neighborhood: 35
+neighborhood: 37
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+reward in this iteration is  412.30873786407767
+This iteration costs  8.945376487572988 mins
+Iteration  31 :
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+neighborhood: 48
+neighborhood: 50
+neighborhood: 56
+neighborhood: 57
+neighborhood: 58
+reward in this iteration is  417.38834951456306
+This iteration costs  8.676937544345856 mins
+Iteration  32 :
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+neighborhood: 35
+neighborhood: 37
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+reward in this iteration is  411.0776699029126
+This iteration costs  8.66513299147288 mins
+Iteration  33 :
+neighborhood: 2
+neighborhood: 4
+neighborhood: 10
+neighborhood: 11
+neighborhood: 12
+reward in this iteration is  406.15728155339804
+This iteration costs  5.439855229854584 mins
+Iteration  34 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  414.8427184466019
+This iteration costs  8.837314581871032 mins
+Iteration  35 :
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+neighborhood: 35
+neighborhood: 37
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+reward in this iteration is  413.1495145631068
+This iteration costs  8.925026623408 mins
+Iteration  36 :
+neighborhood: 32
+neighborhood: 33
+neighborhood: 41
+neighborhood: 48
+neighborhood: 49
+reward in this iteration is  413.30485436893207
+This iteration costs  5.562281282742818 mins
+Iteration  37 :
+neighborhood: 0
+neighborhood: 2
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+reward in this iteration is  423.2291262135923
+This iteration costs  5.399459934234619 mins
+Iteration  38 :
+neighborhood: 28
+neighborhood: 29
+neighborhood: 30
+neighborhood: 36
+neighborhood: 38
+neighborhood: 44
+neighborhood: 45
+neighborhood: 46
+reward in this iteration is  376.52621359223303
+This iteration costs  8.763179751237233 mins
+Iteration  39 :
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+neighborhood: 26
+neighborhood: 28
+neighborhood: 34
+neighborhood: 35
+neighborhood: 36
+reward in this iteration is  408.86796116504854
+This iteration costs  8.92244420448939 mins
+write result
+Iteration  40 :
+neighborhood: 33
+neighborhood: 34
+neighborhood: 35
+neighborhood: 41
+neighborhood: 43
+neighborhood: 49
+neighborhood: 50
+neighborhood: 51
+reward in this iteration is  388.8970873786408
+This iteration costs  9.042864048480988 mins
+Iteration  41 :
+neighborhood: 24
+neighborhood: 25
+neighborhood: 26
+neighborhood: 32
+neighborhood: 34
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+reward in this iteration is  405.8563106796116
+This iteration costs  8.822112158934276 mins
+Iteration  42 :
+neighborhood: 29
+neighborhood: 30
+neighborhood: 31
+neighborhood: 37
+neighborhood: 39
+neighborhood: 45
+neighborhood: 46
+neighborhood: 47
+reward in this iteration is  348.80970873786407
+This iteration costs  12.69052365620931 mins
+Iteration  43 :
+neighborhood: 1
+neighborhood: 8
+neighborhood: 9
+reward in this iteration is  377.93592233009707
+This iteration costs  5.306120312213897 mins
+Iteration  44 :
+neighborhood: 46
+neighborhood: 47
+neighborhood: 54
+neighborhood: 62
+neighborhood: 63
+reward in this iteration is  392.94368932038833
+This iteration costs  8.780469063917796 mins
+Iteration  45 :
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+neighborhood: 28
+neighborhood: 30
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+reward in this iteration is  386.77669902912623
+This iteration costs  13.9947536389033 mins
+Iteration  46 :
+neighborhood: 6
+neighborhood: 14
+neighborhood: 15
+reward in this iteration is  377.33398058252425
+This iteration costs  5.1426023999849955 mins
+Iteration  47 :
+neighborhood: 1
+neighborhood: 3
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+reward in this iteration is  365.0155339805825
+This iteration costs  8.600887056191763 mins
+Iteration  48 :
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+neighborhood: 48
+neighborhood: 50
+neighborhood: 56
+neighborhood: 57
+neighborhood: 58
+reward in this iteration is  357.6407766990292
+This iteration costs  13.636973877747854 mins
+Iteration  49 :
+neighborhood: 24
+neighborhood: 25
+neighborhood: 33
+neighborhood: 40
+neighborhood: 41
+reward in this iteration is  359.79611650485435
+This iteration costs  8.614322964350382 mins
+write result
+Iteration  50 :
+neighborhood: 28
+neighborhood: 29
+neighborhood: 30
+neighborhood: 36
+neighborhood: 38
+neighborhood: 44
+neighborhood: 45
+neighborhood: 46
+reward in this iteration is  327.6776699029126
+This iteration costs  13.633145821094512 mins
+Iteration  51 :
+neighborhood: 34
+neighborhood: 35
+neighborhood: 36
+neighborhood: 42
+neighborhood: 44
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+reward in this iteration is  365.20582524271845
+This iteration costs  13.19334948460261 mins
+Iteration  52 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  362.04271844660195
+This iteration costs  13.234126818180084 mins
+Iteration  53 :
+neighborhood: 6
+neighborhood: 7
+neighborhood: 14
+neighborhood: 22
+neighborhood: 23
+reward in this iteration is  370.0990291262136
+This iteration costs  8.380181014537811 mins
+Iteration  54 :
+neighborhood: 24
+neighborhood: 25
+neighborhood: 26
+neighborhood: 32
+neighborhood: 34
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+reward in this iteration is  344.21941747572816
+This iteration costs  13.395452467600505 mins
+Iteration  55 :
+neighborhood: 10
+neighborhood: 11
+neighborhood: 12
+neighborhood: 18
+neighborhood: 20
+neighborhood: 26
+neighborhood: 27
+neighborhood: 28
+reward in this iteration is  358.3980582524272
+This iteration costs  14.089721445242564 mins
+Iteration  56 :
+neighborhood: 48
+neighborhood: 49
+neighborhood: 50
+neighborhood: 56
+neighborhood: 58
+reward in this iteration is  383.33398058252425
+This iteration costs  8.620180904865265 mins
+Iteration  57 :
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+neighborhood: 17
+neighborhood: 19
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+reward in this iteration is  497.1087378640777
+This iteration costs  14.248850512504578 mins
+Iteration  58 :
+neighborhood: 14
+neighborhood: 15
+neighborhood: 22
+neighborhood: 30
+neighborhood: 31
+reward in this iteration is  512.8135922330097
+This iteration costs  8.880581923325856 mins
+Iteration  59 :
+neighborhood: 34
+neighborhood: 35
+neighborhood: 36
+neighborhood: 42
+neighborhood: 44
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+reward in this iteration is  532.6815533980582
+This iteration costs  14.528366386890411 mins
+write result
+Iteration  60 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  421.21747572815536
+This iteration costs  14.133734007676443 mins
+Iteration  61 :
+neighborhood: 5
+neighborhood: 7
+neighborhood: 13
+neighborhood: 14
+neighborhood: 15
+reward in this iteration is  387.5864077669903
+This iteration costs  8.53688858350118 mins
+Iteration  62 :
+neighborhood: 32
+neighborhood: 33
+neighborhood: 41
+neighborhood: 48
+neighborhood: 49
+reward in this iteration is  377.41941747572815
+This iteration costs  8.542176361878713 mins
+Iteration  63 :
+neighborhood: 1
+neighborhood: 3
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+reward in this iteration is  428.5533980582524
+This iteration costs  8.39820749759674 mins
+Iteration  64 :
+neighborhood: 35
+neighborhood: 36
+neighborhood: 37
+neighborhood: 43
+neighborhood: 45
+neighborhood: 51
+neighborhood: 52
+neighborhood: 53
+reward in this iteration is  403.2563106796116
+This iteration costs  13.431256747245788 mins
+Iteration  65 :
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+neighborhood: 58
+neighborhood: 60
+reward in this iteration is  395.5009708737864
+This iteration costs  8.253579823176066 mins
+Iteration  66 :
+neighborhood: 21
+neighborhood: 22
+neighborhood: 23
+neighborhood: 29
+neighborhood: 31
+neighborhood: 37
+neighborhood: 38
+neighborhood: 39
+reward in this iteration is  397.53009708737864
+This iteration costs  13.44399737517039 mins
+Iteration  67 :
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+neighborhood: 33
+neighborhood: 35
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+reward in this iteration is  431.5766990291262
+This iteration costs  13.61712764898936 mins
+Iteration  68 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  491.1106796116505
+This iteration costs  13.464541355768839 mins
+Iteration  69 :
+neighborhood: 4
+neighborhood: 6
+neighborhood: 12
+neighborhood: 13
+neighborhood: 14
+reward in this iteration is  451.79999999999995
+This iteration costs  9.136536725362141 mins
+write result
+Iteration  70 :
+neighborhood: 53
+neighborhood: 54
+neighborhood: 55
+neighborhood: 61
+neighborhood: 63
+reward in this iteration is  437.71650485436896
+This iteration costs  8.685108176867168 mins
+Iteration  71 :
+neighborhood: 0
+neighborhood: 2
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+reward in this iteration is  441.2543689320388
+This iteration costs  8.613011872768402 mins
+Iteration  72 :
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+neighborhood: 17
+neighborhood: 19
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+reward in this iteration is  444.12233009708734
+This iteration costs  14.144316947460174 mins
+Iteration  73 :
+neighborhood: 1
+neighborhood: 3
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+reward in this iteration is  433.42135922330095
+This iteration costs  5.618205281098684 mins
+Iteration  74 :
+neighborhood: 24
+neighborhood: 25
+neighborhood: 26
+neighborhood: 32
+neighborhood: 34
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+reward in this iteration is  398.22330097087377
+This iteration costs  8.235578548908233 mins
+Iteration  75 :
+neighborhood: 3
+neighborhood: 4
+neighborhood: 5
+neighborhood: 11
+neighborhood: 13
+neighborhood: 19
+neighborhood: 20
+neighborhood: 21
+reward in this iteration is  465.2699029126213
+This iteration costs  8.351402000586193 mins
+Iteration  76 :
+neighborhood: 2
+neighborhood: 4
+neighborhood: 10
+neighborhood: 11
+neighborhood: 12
+reward in this iteration is  459.88737864077666
+This iteration costs  5.14912801583608 mins
+Iteration  77 :
+neighborhood: 48
+neighborhood: 49
+neighborhood: 50
+neighborhood: 56
+neighborhood: 58
+reward in this iteration is  409.13398058252426
+This iteration costs  5.084284782409668 mins
+Iteration  78 :
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+neighborhood: 48
+neighborhood: 50
+neighborhood: 56
+neighborhood: 57
+neighborhood: 58
+reward in this iteration is  391.3611650485437
+This iteration costs  7.8536882797877 mins
+Iteration  79 :
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+neighborhood: 17
+neighborhood: 19
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+reward in this iteration is  473.3553398058252
+This iteration costs  8.05839741230011 mins
+write result
+Iteration  80 :
+neighborhood: 16
+neighborhood: 17
+neighborhood: 18
+neighborhood: 24
+neighborhood: 26
+neighborhood: 32
+neighborhood: 33
+neighborhood: 34
+reward in this iteration is  447.55533980582527
+This iteration costs  7.899893017609914 mins
+Iteration  81 :
+neighborhood: 4
+neighborhood: 5
+neighborhood: 6
+neighborhood: 12
+neighborhood: 14
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+reward in this iteration is  421.021359223301
+This iteration costs  7.554121545950571 mins
+Iteration  82 :
+neighborhood: 37
+neighborhood: 38
+neighborhood: 39
+neighborhood: 45
+neighborhood: 47
+neighborhood: 53
+neighborhood: 54
+neighborhood: 55
+reward in this iteration is  388.9495145631068
+This iteration costs  7.891447242101034 mins
+Iteration  83 :
+neighborhood: 0
+neighborhood: 1
+neighborhood: 2
+neighborhood: 8
+neighborhood: 10
+neighborhood: 16
+neighborhood: 17
+neighborhood: 18
+reward in this iteration is  417.05631067961167
+This iteration costs  7.99062682390213 mins
+Iteration  84 :
+neighborhood: 1
+neighborhood: 3
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+reward in this iteration is  396.1766990291262
+This iteration costs  5.265941600004832 mins
+Iteration  85 :
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+neighborhood: 33
+neighborhood: 35
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+reward in this iteration is  398.88155339805826
+This iteration costs  8.611129621664682 mins
+Iteration  86 :
+neighborhood: 46
+neighborhood: 47
+neighborhood: 54
+neighborhood: 62
+neighborhood: 63
+reward in this iteration is  397.4116504854369
+This iteration costs  5.314114805062612 mins
+Iteration  87 :
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+neighborhood: 35
+neighborhood: 37
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+reward in this iteration is  381.11650485436894
+This iteration costs  8.733087960879008 mins
+Iteration  88 :
+neighborhood: 35
+neighborhood: 36
+neighborhood: 37
+neighborhood: 43
+neighborhood: 45
+neighborhood: 51
+neighborhood: 52
+neighborhood: 53
+reward in this iteration is  381.65436893203884
+This iteration costs  8.902123792966206 mins
+Iteration  89 :
+neighborhood: 3
+neighborhood: 4
+neighborhood: 5
+neighborhood: 11
+neighborhood: 13
+neighborhood: 19
+neighborhood: 20
+neighborhood: 21
+reward in this iteration is  387.88543689320386
+This iteration costs  8.681664236386617 mins
+write result
+Iteration  90 :
+neighborhood: 54
+neighborhood: 55
+neighborhood: 62
+reward in this iteration is  402.9766990291262
+This iteration costs  3.161176872253418 mins
+Iteration  91 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  400.58252427184465
+This iteration costs  8.30969215631485 mins
+Iteration  92 :
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+neighborhood: 35
+neighborhood: 37
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+reward in this iteration is  396.7378640776699
+This iteration costs  8.537870156764985 mins
+Iteration  93 :
+neighborhood: 26
+neighborhood: 27
+neighborhood: 28
+neighborhood: 34
+neighborhood: 36
+neighborhood: 42
+neighborhood: 43
+neighborhood: 44
+reward in this iteration is  400.5029126213592
+This iteration costs  8.507118630409241 mins
+Iteration  94 :
+neighborhood: 53
+neighborhood: 54
+neighborhood: 55
+neighborhood: 61
+neighborhood: 63
+reward in this iteration is  394.04466019417475
+This iteration costs  5.363831035296122 mins
+Iteration  95 :
+neighborhood: 28
+neighborhood: 29
+neighborhood: 30
+neighborhood: 36
+neighborhood: 38
+neighborhood: 44
+neighborhood: 45
+neighborhood: 46
+reward in this iteration is  392.40388349514564
+This iteration costs  10.16615818341573 mins
+Iteration  96 :
+neighborhood: 13
+neighborhood: 14
+neighborhood: 15
+neighborhood: 21
+neighborhood: 23
+neighborhood: 29
+neighborhood: 30
+neighborhood: 31
+reward in this iteration is  361.2601941747573
+This iteration costs  9.477542110284169 mins
+Iteration  97 :
+neighborhood: 11
+neighborhood: 12
+neighborhood: 13
+neighborhood: 19
+neighborhood: 21
+neighborhood: 27
+neighborhood: 28
+neighborhood: 29
+reward in this iteration is  350.0776699029126
+This iteration costs  8.949399161338807 mins
+Iteration  98 :
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+neighborhood: 17
+neighborhood: 19
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+reward in this iteration is  375.0893203883495
+This iteration costs  8.885847580432891 mins
+Iteration  99 :
+neighborhood: 24
+neighborhood: 25
+neighborhood: 33
+neighborhood: 40
+neighborhood: 41
+reward in this iteration is  404.95728155339805
+This iteration costs  5.4125800689061485 mins
+write result
+Iteration  100 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  453.4
+This iteration costs  8.264148819446564 mins
+Iteration  101 :
+neighborhood: 0
+neighborhood: 2
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+reward in this iteration is  449.55533980582527
+This iteration costs  5.301130036513011 mins
+Iteration  102 :
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+neighborhood: 16
+neighborhood: 18
+neighborhood: 24
+neighborhood: 25
+neighborhood: 26
+reward in this iteration is  453.4
+This iteration costs  8.341806169350942 mins
+Iteration  103 :
+neighborhood: 48
+neighborhood: 49
+neighborhood: 50
+neighborhood: 56
+neighborhood: 58
+reward in this iteration is  441.00388349514566
+This iteration costs  5.311059800783793 mins
+Iteration  104 :
+neighborhood: 37
+neighborhood: 38
+neighborhood: 39
+neighborhood: 45
+neighborhood: 47
+neighborhood: 53
+neighborhood: 54
+neighborhood: 55
+reward in this iteration is  394.8135922330097
+This iteration costs  8.396372926235198 mins
+Iteration  105 :
+neighborhood: 3
+neighborhood: 4
+neighborhood: 5
+neighborhood: 11
+neighborhood: 13
+neighborhood: 19
+neighborhood: 20
+neighborhood: 21
+reward in this iteration is  370.70679611650485
+This iteration costs  8.236640417575837 mins
+Iteration  106 :
+neighborhood: 3
+neighborhood: 5
+neighborhood: 11
+neighborhood: 12
+neighborhood: 13
+reward in this iteration is  369.93786407766993
+This iteration costs  5.146970049540202 mins
+Iteration  107 :
+neighborhood: 44
+neighborhood: 45
+neighborhood: 46
+neighborhood: 52
+neighborhood: 54
+neighborhood: 60
+neighborhood: 61
+neighborhood: 62
+reward in this iteration is  371.0854368932039
+This iteration costs  11.53262498776118 mins
+Iteration  108 :
+neighborhood: 3
+neighborhood: 4
+neighborhood: 5
+neighborhood: 11
+neighborhood: 13
+neighborhood: 19
+neighborhood: 20
+neighborhood: 21
+reward in this iteration is  375.3203883495146
+This iteration costs  13.998979369799295 mins
+Iteration  109 :
+neighborhood: 17
+neighborhood: 18
+neighborhood: 19
+neighborhood: 25
+neighborhood: 27
+neighborhood: 33
+neighborhood: 34
+neighborhood: 35
+reward in this iteration is  361.0893203883495
+This iteration costs  14.638640960057577 mins
+write result
+Iteration  110 :
+neighborhood: 42
+neighborhood: 43
+neighborhood: 44
+neighborhood: 50
+neighborhood: 52
+neighborhood: 58
+neighborhood: 59
+neighborhood: 60
+reward in this iteration is  394.30873786407767
+This iteration costs  14.182949825127919 mins
+Iteration  111 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  400.0019417475728
+This iteration costs  14.361265818277994 mins
+Iteration  112 :
+neighborhood: 13
+neighborhood: 14
+neighborhood: 15
+neighborhood: 21
+neighborhood: 23
+neighborhood: 29
+neighborhood: 30
+neighborhood: 31
+reward in this iteration is  391.9223300970874
+This iteration costs  14.609857165813446 mins
+Iteration  113 :
+neighborhood: 2
+neighborhood: 4
+neighborhood: 10
+neighborhood: 11
+neighborhood: 12
+reward in this iteration is  411.79029126213595
+This iteration costs  9.744860974947612 mins
+Iteration  114 :
+neighborhood: 48
+neighborhood: 49
+neighborhood: 50
+neighborhood: 56
+neighborhood: 58
+reward in this iteration is  408.1689320388349
+This iteration costs  9.889804089069367 mins
+Iteration  115 :
+neighborhood: 28
+neighborhood: 29
+neighborhood: 30
+neighborhood: 36
+neighborhood: 38
+neighborhood: 44
+neighborhood: 45
+neighborhood: 46
+reward in this iteration is  407.16893203883495
+This iteration costs  17.102131295204163 mins
+Iteration  116 :
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+neighborhood: 58
+neighborhood: 60
+reward in this iteration is  376.49126213592234
+This iteration costs  10.205450451374054 mins
+Iteration  117 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  394.5184466019418
+This iteration costs  15.468954054514567 mins
+Iteration  118 :
+neighborhood: 6
+neighborhood: 14
+neighborhood: 15
+reward in this iteration is  354.11262135922334
+This iteration costs  5.90286857287089 mins
+Iteration  119 :
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+neighborhood: 51
+neighborhood: 53
+neighborhood: 59
+neighborhood: 60
+neighborhood: 61
+reward in this iteration is  354.88155339805826
+This iteration costs  15.567638472716014 mins
+write result
+Iteration  120 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  415.3203883495146
+This iteration costs  15.294810708363851 mins
+Iteration  121 :
+neighborhood: 16
+neighborhood: 17
+neighborhood: 18
+neighborhood: 24
+neighborhood: 26
+neighborhood: 32
+neighborhood: 33
+neighborhood: 34
+reward in this iteration is  394.05436893203887
+This iteration costs  15.747788361708324 mins
+Iteration  122 :
+neighborhood: 2
+neighborhood: 4
+neighborhood: 10
+neighborhood: 11
+neighborhood: 12
+reward in this iteration is  430.3281553398058
+This iteration costs  9.892481088638306 mins
+Iteration  123 :
+neighborhood: 6
+neighborhood: 7
+neighborhood: 14
+neighborhood: 22
+neighborhood: 23
+reward in this iteration is  437.9223300970874
+This iteration costs  9.857953329881033 mins
+Iteration  124 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  434.6116504854369
+This iteration costs  16.19312224785487 mins
+Iteration  125 :
+neighborhood: 42
+neighborhood: 43
+neighborhood: 44
+neighborhood: 50
+neighborhood: 52
+neighborhood: 58
+neighborhood: 59
+neighborhood: 60
+reward in this iteration is  446.3378640776699
+This iteration costs  16.46115775903066 mins
+Iteration  126 :
+neighborhood: 14
+neighborhood: 15
+neighborhood: 22
+neighborhood: 30
+neighborhood: 31
+reward in this iteration is  453.49320388349514
+This iteration costs  10.178922283649445 mins
+Iteration  127 :
+neighborhood: 1
+neighborhood: 8
+neighborhood: 9
+reward in this iteration is  461.8233009708738
+This iteration costs  5.897296722730001 mins
+Iteration  128 :
+neighborhood: 0
+neighborhood: 1
+neighborhood: 2
+neighborhood: 8
+neighborhood: 10
+neighborhood: 16
+neighborhood: 17
+neighborhood: 18
+reward in this iteration is  440.1864077669903
+This iteration costs  15.71475148598353 mins
+Iteration  129 :
+neighborhood: 34
+neighborhood: 35
+neighborhood: 36
+neighborhood: 42
+neighborhood: 44
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+reward in this iteration is  455.3611650485437
+This iteration costs  15.309597373008728 mins
+write result
+Iteration  130 :
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+neighborhood: 58
+neighborhood: 60
+reward in this iteration is  394.9223300970874
+This iteration costs  9.732629080613455 mins
+Iteration  131 :
+neighborhood: 0
+neighborhood: 2
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+reward in this iteration is  390.5203883495146
+This iteration costs  7.721200748284658 mins
+Iteration  132 :
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+neighborhood: 28
+neighborhood: 30
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+reward in this iteration is  406.6116504854369
+This iteration costs  9.805849556128184 mins
+Iteration  133 :
+neighborhood: 24
+neighborhood: 25
+neighborhood: 33
+neighborhood: 40
+neighborhood: 41
+reward in this iteration is  393.1980582524272
+This iteration costs  5.937658715248108 mins
+Iteration  134 :
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+neighborhood: 44
+neighborhood: 46
+neighborhood: 52
+neighborhood: 53
+neighborhood: 54
+reward in this iteration is  405.42135922330095
+This iteration costs  9.80072394212087 mins
+Iteration  135 :
+neighborhood: 1
+neighborhood: 3
+neighborhood: 9
+neighborhood: 10
+neighborhood: 11
+reward in this iteration is  412.79999999999995
+This iteration costs  6.2138973593711855 mins
+Iteration  136 :
+neighborhood: 35
+neighborhood: 36
+neighborhood: 37
+neighborhood: 43
+neighborhood: 45
+neighborhood: 51
+neighborhood: 52
+neighborhood: 53
+reward in this iteration is  420.4893203883495
+This iteration costs  9.659970152378083 mins
+Iteration  137 :
+neighborhood: 1
+neighborhood: 8
+neighborhood: 9
+reward in this iteration is  416.8038834951456
+This iteration costs  3.3422802686691284 mins
+Iteration  138 :
+neighborhood: 13
+neighborhood: 14
+neighborhood: 15
+neighborhood: 21
+neighborhood: 23
+neighborhood: 29
+neighborhood: 30
+neighborhood: 31
+reward in this iteration is  414.6485436893204
+This iteration costs  8.986880997816721 mins
+Iteration  139 :
+neighborhood: 43
+neighborhood: 44
+neighborhood: 45
+neighborhood: 51
+neighborhood: 53
+neighborhood: 59
+neighborhood: 60
+neighborhood: 61
+reward in this iteration is  415.2660194174757
+This iteration costs  9.154168717066447 mins
+write result
+Iteration  140 :
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+neighborhood: 49
+neighborhood: 51
+neighborhood: 57
+neighborhood: 58
+neighborhood: 59
+reward in this iteration is  489.852427184466
+This iteration costs  9.23927084604899 mins
+Iteration  141 :
+neighborhood: 46
+neighborhood: 47
+neighborhood: 54
+neighborhood: 62
+neighborhood: 63
+reward in this iteration is  482.0038834951456
+This iteration costs  5.776646343866984 mins
+Iteration  142 :
+neighborhood: 40
+neighborhood: 41
+neighborhood: 42
+neighborhood: 48
+neighborhood: 50
+neighborhood: 56
+neighborhood: 57
+neighborhood: 58
+reward in this iteration is  423.8233009708738
+This iteration costs  9.210514342784881 mins
+Iteration  143 :
+neighborhood: 0
+neighborhood: 2
+neighborhood: 8
+neighborhood: 9
+neighborhood: 10
+reward in this iteration is  417.4252427184466
+This iteration costs  5.61759736140569 mins
+Iteration  144 :
+neighborhood: 20
+neighborhood: 21
+neighborhood: 22
+neighborhood: 28
+neighborhood: 30
+neighborhood: 36
+neighborhood: 37
+neighborhood: 38
+reward in this iteration is  413.1106796116505
+This iteration costs  8.866524203618367 mins
+Iteration  145 :
+neighborhood: 2
+neighborhood: 3
+neighborhood: 4
+neighborhood: 10
+neighborhood: 12
+neighborhood: 18
+neighborhood: 19
+neighborhood: 20
+reward in this iteration is  414.0388349514563
+This iteration costs  8.790233059724171 mins
+Iteration  146 :
+neighborhood: 16
+neighborhood: 17
+neighborhood: 18
+neighborhood: 24
+neighborhood: 26
+neighborhood: 32
+neighborhood: 33
+neighborhood: 34
+reward in this iteration is  377.7009708737864
+This iteration costs  9.242010255654654 mins
+Iteration  147 :
+neighborhood: 50
+neighborhood: 51
+neighborhood: 52
+neighborhood: 58
+neighborhood: 60
+reward in this iteration is  376.62135922330094
+This iteration costs  5.600049352645874 mins
+Iteration  148 :
+neighborhood: 3
+neighborhood: 5
+neighborhood: 11
+neighborhood: 12
+neighborhood: 13
+reward in this iteration is  378.0990291262136
+This iteration costs  5.535157819588979 mins
+Iteration  149 :
+neighborhood: 25
+neighborhood: 26
+neighborhood: 27
+neighborhood: 33
+neighborhood: 35
+neighborhood: 41
+neighborhood: 42
+neighborhood: 43
+reward in this iteration is  363.31844660194173
+This iteration costs  8.825213261445363 mins
+write result
+It costs  1497.8056427915892 mins
+Best reward= 244.1126213592233
+done
