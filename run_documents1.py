@@ -14,7 +14,7 @@ def processorFolder(path):
     for file in fileList:
         namelist = file.split('_')
         print(file)
-        namelist = namelist[1:]
+        namelist = namelist[0:]
         print("here",namelist)
         temp = namelist[1].split('x')
         size = temp[1]
@@ -71,7 +71,7 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv,"hi:u:s:",["ifile=","size=","unit="])
     except getopt.GetoptError:
-        print('Error run_folder.py -i <inputfile> -s <size> -u <unit>')
+        print('Error run_documents.py -i <inputfile> -s <size> -u <unit>')
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
